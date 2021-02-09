@@ -1,7 +1,7 @@
 ﻿
 namespace WinFormCalculadora
 {
-    partial class Form1
+    partial class FrmCalculadora
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -198,10 +198,12 @@ namespace WinFormCalculadora
             this.button14.Text = "=";
             this.button14.UseVisualStyleBackColor = true;
             // 
-            // Form1
+            // FrmCalculadora
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(146)))), ((int)(((byte)(89)))), ((int)(((byte)(250)))));
+            this.CausesValidation = false;
             this.ClientSize = new System.Drawing.Size(197, 161);
             this.Controls.Add(this.button14);
             this.Controls.Add(this.button13);
@@ -210,8 +212,14 @@ namespace WinFormCalculadora
             this.Controls.Add(this.button10);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.textBox1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.ForeColor = System.Drawing.Color.MediumBlue;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.Name = "FrmCalculadora";
+            this.ShowInTaskbar = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Calculadora";
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
