@@ -87,7 +87,7 @@ namespace WinFormCalculadora
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(40, 23);
             this.button2.TabIndex = 3;
-            this.button2.Text = "7";
+            this.button2.Text = "8";
             this.button2.UseVisualStyleBackColor = true;
             // 
             // button3
@@ -96,7 +96,7 @@ namespace WinFormCalculadora
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(40, 23);
             this.button3.TabIndex = 4;
-            this.button3.Text = "7";
+            this.button3.Text = "9";
             this.button3.UseVisualStyleBackColor = true;
             // 
             // button4
