@@ -16,5 +16,10 @@ namespace WinFormEjercicio1
         {
             InitializeComponent();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
