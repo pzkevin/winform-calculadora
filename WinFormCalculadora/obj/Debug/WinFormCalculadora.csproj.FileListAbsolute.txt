@@ -1,0 +1,13 @@
+C:\Users\irism_000\source\repos\DesktopApps\WinFormCalculadora\WinFormCalculadora\bin\Debug\WinFormCalculadora.exe.config
+C:\Users\irism_000\source\repos\DesktopApps\WinFormCalculadora\WinFormCalculadora\bin\Debug\WinFormCalculadora.exe
+C:\Users\irism_000\source\repos\DesktopApps\WinFormCalculadora\WinFormCalculadora\bin\Debug\WinFormCalculadora.pdb
+C:\Users\irism_000\source\repos\DesktopApps\WinFormCalculadora\WinFormCalculadora\obj\Debug\WinFormCalculadora.csprojAssemblyReference.cache
+C:\Users\irism_000\source\repos\DesktopApps\WinFormCalculadora\WinFormCalculadora\obj\Debug\WinFormCalculadora.FrmCalculadora.resources
+C:\Users\irism_000\source\repos\DesktopApps\WinFormCalculadora\WinFormCalculadora\obj\Debug\WinFormCalculadora.Properties.Resources.resources
+C:\Users\irism_000\source\repos\DesktopApps\WinFormCalculadora\WinFormCalculadora\obj\Debug\WinFormCalculadora.csproj.GenerateResource.cache
+C:\Users\irism_000\source\repos\DesktopApps\WinFormCalculadora\WinFormCalculadora\obj\Debug\WinFormCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\irism_000\source\repos\DesktopApps\WinFormCalculadora\WinFormCalculadora\obj\Debug\WinFormCalculadora.exe
+C:\Users\irism_000\source\repos\DesktopApps\WinFormCalculadora\WinFormCalculadora\obj\Debug\WinFormCalculadora.pdb
+C:\Users\irism_000\source\repos\DesktopApps\WinFormCalculadora\WinFormCalculadora\bin\Debug\Dominio_LibCalc.dll
+C:\Users\irism_000\source\repos\DesktopApps\WinFormCalculadora\WinFormCalculadora\bin\Debug\Dominio_LibCalc.pdb
+C:\Users\irism_000\source\repos\DesktopApps\WinFormCalculadora\WinFormCalculadora\obj\Debug\WinFormCalculadora.csproj.CopyComplete
