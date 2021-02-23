@@ -1,0 +1,10 @@
+C:\Users\K\source\repos\WinFormEjercicio1\bin\Debug\WinFormEjercicio1.exe.config
+C:\Users\K\source\repos\WinFormEjercicio1\bin\Debug\WinFormEjercicio1.exe
+C:\Users\K\source\repos\WinFormEjercicio1\bin\Debug\WinFormEjercicio1.pdb
+C:\Users\K\source\repos\WinFormEjercicio1\obj\Debug\WinFormEjercicio1.csprojAssemblyReference.cache
+C:\Users\K\source\repos\WinFormEjercicio1\obj\Debug\WinFormEjercicio1.Properties.Resources.resources
+C:\Users\K\source\repos\WinFormEjercicio1\obj\Debug\WinFormEjercicio1.csproj.GenerateResource.cache
+C:\Users\K\source\repos\WinFormEjercicio1\obj\Debug\WinFormEjercicio1.csproj.CoreCompileInputs.cache
+C:\Users\K\source\repos\WinFormEjercicio1\obj\Debug\WinFormEjercicio1.exe
+C:\Users\K\source\repos\WinFormEjercicio1\obj\Debug\WinFormEjercicio1.pdb
+C:\Users\K\source\repos\WinFormEjercicio1\obj\Debug\WinFormEjercicio1.FrmCalculadora.resources
