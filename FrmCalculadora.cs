@@ -148,6 +148,7 @@ namespace WinFormEjercicio1
 
         private void btnPunto_Click(object sender, EventArgs e)
         {
+            //falta editar el punto para que no se agregue mas de una vez
             txtDisplay.Text += ".";
         }
 
